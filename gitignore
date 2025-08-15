@@ -1,0 +1,15 @@
+# Looker specific
+*.tmp
+*.log
+.DS_Store
+
+# Environment files
+.env
+*.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
